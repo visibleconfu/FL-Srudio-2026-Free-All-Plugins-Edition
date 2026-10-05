@@ -39,7 +39,7 @@ All Plugins Edition, FL Studio, FL Studio 2026, FL Studio 26, FL Studio 25, FL S
 
 ## ⚖️ License
 
-This project is licensed under the **MIT License**. You are free to use, copy, modify, and distribute it.
+This project is licensed under the ** Apache License**. You are free to use, copy, modify, and distribute it.
 
-The full MIT License text is available in the [`LICENSE`](LICENSE) file included in this repository.
+The full  Apache License text is available in the [`LICENSE`](LICENSE) file included in this repository.
 
