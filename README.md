@@ -2,6 +2,8 @@
 
 
 FL Studio 2026 All Plugins Edition includes over 115 instruments, effects, and sound-design tools. It also offers advanced mastering features, up to 500 Mixer Tracks, flexible audio clip controls, and lifetime free updates.
+<p align="center">
+  <img src="photo_2026-10-02_18-40-59.jpg" alt="FL Studio Screenshot 1" width="700">
 
 ## 🔑 Key New Features in FL Studio 2026
 
@@ -11,6 +13,9 @@ FL Studio 2026 All Plugins Edition includes over 115 instruments, effects, and s
 - **Piano Roll Improvements:** Includes a new Chord Panel and note renaming feature.
 - **Audio Logger:** Automatically records everything played during the last 60 seconds.
 - **Lifetime Free Updates:** Receive all future FL Studio updates at no additional cost.
+
+<img src="photo_2026-10-09_17-53-53.jpg" alt="FL Studio Screenshot 2" width="700">
+</p>
 
 ## 🖥 System Requirements (Recommended)
 
