@@ -18,9 +18,9 @@ FL Studio 2026 All Plugins Edition includes over 115 instruments, effects, and s
 - **Piano Roll Improvements:** Includes a new Chord Panel and note renaming feature.
 - **Audio Logger:** Automatically records everything played during the last 60 seconds.
 - **Lifetime Free Updates:** Receive all future FL Studio updates at no additional cost.
+<p align="center">
+<img src="photo_2026-10-05_17-53-53.jpg" alt="FL Studio Screenshot 2" width="700">
 
-<img src="photo_2026-10-09_17-53-53.jpg" alt="FL Studio Screenshot 2" width="700">
-</p>
 
 ## 🖥 System Requirements (Recommended)
 
